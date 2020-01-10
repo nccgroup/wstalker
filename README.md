@@ -5,7 +5,7 @@ WStalker is a HTTP/HTTPS Proxy with full Request/Response logging. The main purp
 ## Compile or Download WStalker
 
 To use it, you can compile your own binaries from the source code by running `./build.sh`.
-You can also download a set of binaries that were already ready for you [from here](https://github.com/nccgroup/wstalker).
+You can also download a set of binaries that were already ready for you [from here](https://github.com/nccgroup/wstalker/releases/).
 
 ## Running WStalker
 
