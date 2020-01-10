@@ -1,0 +1,3 @@
+package filedump
+
+// Package filedump is...
