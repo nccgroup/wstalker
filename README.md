@@ -2,6 +2,16 @@
 
 WStalker is a HTTP/HTTPS Proxy with full Request/Response logging. The main purpose of WStalker is to provide an easy way for developers to configure their testing tools to use this proxy and register the valid connections they use to test Web Services. The resulting CSV file can be used in security testing, by importing the requests/responses into your favourite testing tool.
 
+## License
+
+Released as open source by NCC Group Plc - http://www.nccgroup.com/
+
+Developed by Jose Selvi, jose dot selvi at nccgroup dot com
+
+http://www.github.com/nccgroup/wstalker
+
+Released under AGPL see [LICENSE](LICENSE.md) for more information
+
 ## Compile or Download WStalker
 
 To use it, you can compile your own binaries from the source code by running `./build.sh`.
