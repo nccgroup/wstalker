@@ -10,7 +10,7 @@ Developed by Jose Selvi, jose dot selvi at nccgroup dot com
 
 http://www.github.com/nccgroup/wstalker
 
-Released under AGPL see [LICENSE](LICENSE.md) for more information
+Released under AGPL see [LICENSE](LICENSE) for more information
 
 ## Compile or Download WStalker
 
