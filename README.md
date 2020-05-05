@@ -6,7 +6,7 @@ WStalker is a HTTP/HTTPS Proxy with full Request/Response logging. The main purp
 
 Released as open source by NCC Group Plc - https://www.nccgroup.com/
 
-Developed by Jose Selvi, jose dot selvi at nccgroup dot com
+Developed by Jose Selvi [![Twitter Follow](https://img.shields.io/twitter/follow/JoseSelvi?style=social)](https://twitter.com/JoseSelvi/)
 
 https://www.github.com/nccgroup/wstalker
 
