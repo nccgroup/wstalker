@@ -1,6 +1,6 @@
 # WStalker: an easy proxy 
 
-WStalker is a HTTP/HTTPS Proxy with full Request/Response logging. The main purpose of WStalker is to provide an easy way for developers to configure their testing tools to use this proxy and register the valid connections they use to test Web Services. The resulting CSV file can be used in security testing, by importing the requests/responses into your favourite testing tool.
+WStalker is a HTTP/HTTPS Proxy with full Request/Response logging. The main purpose of WStalker is to provide an easy way for developers to configure their testing tools to use this proxy and register the valid connections they use to test Web Services. The resulting CSV file can be used in security testing, by importing the requests/responses into your favourite testing tool. For example, you can use [Import To Sitemap](https://github.com/nccgroup/BurpImportSitemap) or [Logger++](https://github.com/nccgroup/LoggerPlusPlus) (available in [bApp Store](https://portswigger.net/bappstore/470b7057b86f41c396a97903377f3d81)) extensions to import this information into [Burp Suite](https://portswigger.net/burp).
 
 ## License
 
